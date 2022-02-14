@@ -568,11 +568,11 @@ Publish the website in the given URL.
         
 
 ## OUTPUT:
-![](ss1.png)
-![](ss2.png)
-![](ss3.png)
-![](ss4.png)
-![](ss5.png)
+![](SS1.png)
+![](SS2.png)
+![](SS3.png)
+![](SS4.png)
+![](SS5.png)
 
 
 
