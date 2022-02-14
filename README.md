@@ -577,4 +577,4 @@ Publish the website in the given URL.
 
 
 ## Result:
-
+Thus a website is designed using bootstrap framework
