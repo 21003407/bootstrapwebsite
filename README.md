@@ -564,7 +564,7 @@ Publish the website in the given URL.
                     </div>
                 </body>
         </html>
- ~~~       
+~~~       
         
 
 ## OUTPUT:
@@ -573,7 +573,7 @@ Publish the website in the given URL.
 ![](ss3.png)
 ![](ss4.png)
 ![](ss5.png)
-### Home Page:
+
 
 
 ## Result:
